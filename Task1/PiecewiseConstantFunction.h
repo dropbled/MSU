@@ -30,8 +30,7 @@ private:
     double* intervals; // массив границ промежутков
     int num_intervals; // количество промежутков
 
-    // private methods
     void parse_string(const char* str);
 };
 
-#endif // PIECEWISECONSTANTFUNCTION_H
+#endif 
