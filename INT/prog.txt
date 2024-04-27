@@ -1,0 +1,13 @@
+program 
+var a, b, s, i: int;
+
+begin
+    read(a);
+    read(b);
+    s:=1;
+    for i:=1 to b do
+    begin
+        s:=s*a
+    end;
+    write(s)
+end@
