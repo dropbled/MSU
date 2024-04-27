@@ -1,6 +1,6 @@
-Calc_int - regular calculator for + and * via graphs using stack
-Calc_str - same, but showing path with all signs 
-Working for: 
-S -> A { + A }
-A -> B { B }
-B -> a | ( S )
+Calc_int - regular calculator for + and * via graphs using stack <br />
+Calc_str - same, but showing path with all signs <br />
+Working for: <br />
+S -> A { + A } <br />
+A -> B { B } <br />
+B -> a | ( S ) <br />
